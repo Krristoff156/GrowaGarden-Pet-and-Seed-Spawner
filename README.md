@@ -1,1 +1,1 @@
-# GrowaGarden-Pet-and-Seed-Spawner
+# GrowaGarden-Pet-Duper
